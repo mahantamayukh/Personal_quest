@@ -55,4 +55,4 @@ print (f'prediction after training: f(5) = {forward(5):.3f}')
 print('hi')
 
 
-#now to do the same with pytorch is quiten easy. will do it soon
+#now to do the same with pytorch is quiten easy. will do it soon hi!!!
